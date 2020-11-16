@@ -44,8 +44,7 @@ func BenchmarkReadOne(b *testing.B) {
 
 	b.ResetTimer()
 	for n := 0; n < b.N; n++ {
-		key := "key_1"
-		_, _ = dbModel.ReadOne(key)
+		_, _ = dbModel.ReadOne("key_1")
 	}
 	b.StopTimer()
 	defer db.Close()
@@ -65,3 +64,10 @@ func BenchmarkReadAll(b *testing.B) {
 	defer db.Close()
 }
 
+// from fib_test.go
+func BenchmarkFib10(b *testing.B) {
+	// run the Fib function b.N times
+	for n := 0; n < b.N; n++ {
+		Fib(10)
+	}
+}
