@@ -2,45 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="915cea9b-d749-4eff-8c55-668c6fd1713a" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/levelDb/db/leveldb/000161.ldb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/levelDb/db/leveldb/000168.ldb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/levelDb/db/leveldb/000170.ldb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/levelDb/db/leveldb/000171.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/levelDb/db/leveldb/000172.ldb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/levelDb/db/leveldb/CURRENT" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/levelDb/db/leveldb/LOCK" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/levelDb/db/leveldb/LOG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/levelDb/db/leveldb/LOG.old" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/levelDb/db/leveldb/MANIFEST-000162" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/levelDb/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/levelDb/main.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/levelDb/main_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/levelDb/main_test.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/rocksDb/db/rocksdb/000066.sst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/rocksDb/db/rocksdb/000069.sst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/rocksDb/db/rocksdb/000086.sst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/rocksDb/db/rocksdb/000089.sst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/rocksDb/db/rocksdb/000091.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/rocksDb/db/rocksdb/CURRENT" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/rocksDb/db/rocksdb/IDENTITY" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/rocksDb/db/rocksdb/LOCK" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/rocksDb/db/rocksdb/LOG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/rocksDb/db/rocksdb/LOG.old.1605253729484281" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/rocksDb/db/rocksdb/LOG.old.1605256811748784" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/rocksDb/db/rocksdb/LOG.old.1605256811782941" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/rocksDb/db/rocksdb/LOG.old.1605256811812647" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/rocksDb/db/rocksdb/LOG.old.1605256811886871" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/rocksDb/db/rocksdb/LOG.old.1605256812806982" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/rocksDb/db/rocksdb/LOG.old.1605256814171038" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/rocksDb/db/rocksdb/LOG.old.1605256814364018" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/rocksDb/db/rocksdb/LOG.old.1605256814397927" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/rocksDb/db/rocksdb/LOG.old.1605256814797670" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/rocksDb/db/rocksdb/LOG.old.1605256947703840" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/rocksDb/db/rocksdb/LOG.old.1605256947985473" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/rocksDb/db/rocksdb/LOG.old.1605256948002327" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/rocksDb/db/rocksdb/LOG.old.1605256948053586" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/rocksDb/db/rocksdb/MANIFEST-000090" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/rocksDb/db/rocksdb/OPTIONS-000085" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/rocksDb/db/rocksdb/OPTIONS-000093" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
